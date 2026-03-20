@@ -348,6 +348,7 @@ The interface is designed at 420px width (standard mobile viewport) with a phone
 
 ---
 
+**Demo Video:** https://youtu.be/S-DJFSaWEcI?si=6aAj9nsYX5x7T8EQ  
 **Prototype Link:** https://gig-guard-prototype.vercel.app/  
 **Repository:** https://github.com/tejith7/GigGuard-DEVTrails2026
 
